@@ -1,4 +1,4 @@
-# my-vue-app1
+# SHOP.MAIJA
 
 ## Project setup
 ```
